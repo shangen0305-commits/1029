@@ -784,51 +784,6 @@ a {
   outline-offset: 2px !important;
   transition: outline 0.2s ease-in-out;
 }
-.cid-v0Z0Eo1Poz {
-  display: flex;
-  background-image: url("../../../assets/images/9a853360a555c6cbcb95578b49a4c068-1.jpg");
-}
-.cid-v0Z0Eo1Poz .mbr-overlay {
-  background-color: #000000;
-  opacity: 0.5;
-}
-@media (min-width: 768px) {
-  .cid-v0Z0Eo1Poz {
-    align-items: flex-end;
-  }
-  .cid-v0Z0Eo1Poz .row {
-    justify-content: center;
-  }
-  .cid-v0Z0Eo1Poz .content-wrap {
-    padding: 1rem 3rem;
-  }
-}
-@media (max-width: 991px) and (min-width: 768px) {
-  .cid-v0Z0Eo1Poz .content-wrap {
-    min-width: 50%;
-  }
-}
-@media (max-width: 767px) {
-  .cid-v0Z0Eo1Poz {
-    -webkit-align-items: center;
-    align-items: flex-end;
-  }
-  .cid-v0Z0Eo1Poz .mbr-row {
-    -webkit-justify-content: center;
-    justify-content: center;
-  }
-  .cid-v0Z0Eo1Poz .content-wrap {
-    width: 100%;
-  }
-}
-.cid-v0Z0Eo1Poz .mbr-section-title,
-.cid-v0Z0Eo1Poz .mbr-section-subtitle {
-  text-align: center;
-}
-.cid-v0Z0Eo1Poz .mbr-text,
-.cid-v0Z0Eo1Poz .mbr-section-btn {
-  text-align: center;
-}
 .cid-v0Z0EYx7EA {
   z-index: 1000;
   width: 100%;
@@ -1386,6 +1341,51 @@ a {
   .cid-v0Z0EYx7EA .navbar-collapse {
     padding: 1rem;
   }
+}
+.cid-v0Z0Eo1Poz {
+  display: flex;
+  background-image: url("../../../assets/images/9a853360a555c6cbcb95578b49a4c068-1.jpg");
+}
+.cid-v0Z0Eo1Poz .mbr-overlay {
+  background-color: #000000;
+  opacity: 0.5;
+}
+@media (min-width: 768px) {
+  .cid-v0Z0Eo1Poz {
+    align-items: flex-end;
+  }
+  .cid-v0Z0Eo1Poz .row {
+    justify-content: center;
+  }
+  .cid-v0Z0Eo1Poz .content-wrap {
+    padding: 1rem 3rem;
+  }
+}
+@media (max-width: 991px) and (min-width: 768px) {
+  .cid-v0Z0Eo1Poz .content-wrap {
+    min-width: 50%;
+  }
+}
+@media (max-width: 767px) {
+  .cid-v0Z0Eo1Poz {
+    -webkit-align-items: center;
+    align-items: flex-end;
+  }
+  .cid-v0Z0Eo1Poz .mbr-row {
+    -webkit-justify-content: center;
+    justify-content: center;
+  }
+  .cid-v0Z0Eo1Poz .content-wrap {
+    width: 100%;
+  }
+}
+.cid-v0Z0Eo1Poz .mbr-section-title,
+.cid-v0Z0Eo1Poz .mbr-section-subtitle {
+  text-align: center;
+}
+.cid-v0Z0Eo1Poz .mbr-text,
+.cid-v0Z0Eo1Poz .mbr-section-btn {
+  text-align: center;
 }
 .cid-v0Z3Cq9IRU {
   padding-top: 5rem;
